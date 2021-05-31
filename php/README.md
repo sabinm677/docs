@@ -3,7 +3,7 @@
 - [Installation in macOS](#installation-in-macos)
 - [pear and pecl](#pear-and-pecl)
 - [Auto update](#auto-update)
-- [PHP Configuration (php.ini)](#php-configuration-php.ini)
+- [PHP Configuration (php.ini)](#php-configuration)
 - [Install Xdebug](#install-xdebug)
 
 
@@ -53,7 +53,7 @@ By default **homebrew** will auto-update PHP when you run `brew install` command
 
 `HOMEBREW_NO_AUTO_UPDATE=1`
 
-### PHP Configuration (php.ini)
+### PHP Configuration
 
 The **php.ini** file is a special file for PHP. It is where you declare  changes to your PHP settings. The server is already configured with  standard settings for PHP, which your application will use by default. Unless  you need to change one or more settings, there is no need to create or  modify a php.ini file. 
 
