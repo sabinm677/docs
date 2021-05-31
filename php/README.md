@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Installation in macOS](#Installation in macOS)
+- [Installation in macOS](#installation-in-macos)
 - [pear and pecl](#pear and pecl)
 - [Auto update](#Auto update)
 - [PHP Configuration (php.ini)](#PHP Configuration (php.ini))
