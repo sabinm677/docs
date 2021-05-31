@@ -1,10 +1,10 @@
 # Table of contents
 
 - [Installation in macOS](#installation-in-macos)
-- [pear and pecl](#pear and pecl)
-- [Auto update](#Auto update)
-- [PHP Configuration (php.ini)](#PHP Configuration (php.ini))
-- [Install Xdebug](#Install Xdebug)
+- [pear and pecl](#pear-and-pecl)
+- [Auto update](#auto-update)
+- [PHP Configuration (php.ini)](#php-configuration-(php.ini))
+- [Install Xdebug](#install-xdebug)
 
 
 
