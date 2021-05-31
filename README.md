@@ -1,2 +1,2 @@
 # docs
-- [php](#php)
+- [php](php)
